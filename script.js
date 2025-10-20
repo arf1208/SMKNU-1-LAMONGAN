@@ -6,9 +6,9 @@ const PRODUCTS = [
     { id: 4, name: "Lele Goreng", price: 10000 },
     { id: 5, name: "Telur Dadar", price: 7000},
     { id: 6, name: "Lalapan", price: 5000},
-    { id: 7, name: "Nasi Putih", price: 5000 }, 
+    { id: 7, name: "Nasi Putih", price: 4000 }, 
     { id: 8, name: "Kopi Hitam", price: 5000 }, 
-    { id: 9, name: "Teh Hangat", price: 4000 },
+    { id: 9, name: "Teh Hangat", price: 3000 },
     { id: 10, name: "Es Teh", price: 4000 },
     { id: 11, name: "Air Mineral", price: 3000 },
 ];
